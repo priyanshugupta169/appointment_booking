@@ -1,0 +1,18 @@
+djangorestframework
+# https://programmerah.com/solved-django-core-exceptions-improperlyconfigured-sqlite-3-9-0-or-later-is-required-found-3-7-17-29493/
+# https://www.vultr.com/docs/how-to-install-the-latest-version-of-sqlite3/
+Django==3.2.13
+# https://code.djangoproject.com/wiki/JSON1Extension
+
+
+
+# export LD_LIBRARY_PATH=/usr/local/lib/
+# export LD_PRELOAD=/usr/local/lib/libsqlite3.so
+
+# https://www.programink.com/django-tutorial/django-deployment.html
+
+
+
+# saras
+# saras@gmail.com
+# Saras@1234
